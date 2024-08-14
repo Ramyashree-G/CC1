@@ -1,0 +1,25 @@
+.font-weight-bold {
+    font-weight: bold;
+}
+
+body {
+    font-family: Arial, sans-serif;
+    line-height: 1.6;
+}
+
+.school-info h2 {
+    color: #f00e43;
+    margin-bottom: 20px;
+}
+
+.school-info p {
+    font-size: 1.1em;
+    color: #2f83ad;
+    margin-bottom: 15px;
+}
+
+/* Carousel Styles */
+.carousel-inner img {
+    max-height: 500px;
+    object-fit: cover;
+}
